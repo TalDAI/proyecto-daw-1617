@@ -15,7 +15,7 @@
             <ul class="list-unstyled">
                 <li><h5>Creada por:</h5></li>
                 <li>
-                    <h6>Los alumnos de las promociones 2015/2016 tfgnvbde Desarrollo de Aplicaciones Web</h6>
+                    <h6>Los alumnos de las promociones dfbjkdbf de Desarrollo de Aplicaciones Web</h6>
                 </li>
             </ul>
             <ul class="list-unstyled">
