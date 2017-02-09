@@ -15,7 +15,7 @@
             <ul class="list-unstyled">
                 <li><h5>Creada por:</h5></li>
                 <li>
-                    <h6>Los alumnos de las promociones David de Desarrollo de Aplicaciones Web</h6>
+                    <h6>Los alumnos de las promociones Davidcfghb de Desarrollo de Aplicaciones Web</h6>
                 </li>
             </ul>
             <ul class="list-unstyled">
