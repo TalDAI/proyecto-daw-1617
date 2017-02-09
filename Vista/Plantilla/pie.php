@@ -16,6 +16,10 @@
                 <li><h5>Creada por:</h5></li>
                 <li>
                     <h6>Los alumnos de las promociones irune2 de Desarrollo de Aplicaciones Web</h6>
+<<<<<<< Updated upstream
+=======
+>>>>>>> origin/Desarrollo
+>>>>>>> Stashed changes
                 </li>
             </ul>
             <ul class="list-unstyled">
