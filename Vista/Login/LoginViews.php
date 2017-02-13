@@ -72,7 +72,7 @@ class LoginViews extends Views
         ?>
                 <form name="changePasswordForm" class="form-horizontal ins" method="post">
                     <fieldset>
-                        <legend>Cambio de contraseña</legend>
+                        <legend>Cambio de Aitor</legend>
                         <div class="form-group">
                             <label class="control-label col-sm-2 col-sm-offset-2 col-md-2 col-md-offset-2">Contraseña vieja:</label>
                             <div class="col-sm-4 col-md-4">
