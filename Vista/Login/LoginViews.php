@@ -73,7 +73,7 @@ class LoginViews extends Views
                 <form name="changePasswordForm" class="form-horizontal ins" method="post">
                     <fieldset>
 
-                        <legend>Cambio de David</legend>
+                        <legend>Cambio de Aitor</legend>
 
 
                         <div class="form-group">

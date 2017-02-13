@@ -2,10 +2,9 @@
 <footer class="footer" id="footer">
     <div class="row">
         <div class="col-md-offset-1 col-md-4 ">
-            <h5>Proyecto protegido bajo licencia</h5>
+            <h5>Proyecto protegido bajo escopeta</h5>
 
-            <h6>Reconocimiento – CompartirIgual (by-sa): Se permite el uso comercial de la obra y de las posibles obras derivadas,
-                la distribución de las cuales se debe hacer con una licencia igual a la que regula la obra original.</h6>
+            <h6>HOLA SOY IRUNE, NO IRENE</h6>
 
         </div>
         <div class=" col-md-4">
