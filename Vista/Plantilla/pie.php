@@ -4,7 +4,7 @@
         <div class="col-md-offset-1 col-md-4 ">
             <h5>Proyecto protegido bajo ak47</h5>
 
-            <h6>HOLA SOY IRUNE, NO IRENE</h6>
+            <h6>HOLA SOY IRUNE, NO IRENE OSTIAS</h6>
 
         </div>
         <div class=" col-md-4">
